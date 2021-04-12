@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ryandeussing
-- 👀 ryandeussing.com
+- 👀 [ryandeussing.com](http://ryandeussing.com)
 
